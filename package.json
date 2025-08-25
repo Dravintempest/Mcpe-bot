@@ -1,0 +1,14 @@
+{
+  "name": "bedrock-bot",
+  "version": "1.0.0",
+  "description": "Bot spam / afk untuk Minecraft Bedrock menggunakan bedrock-protocol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.41.0",
+    "socks": "^2.6.1",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
